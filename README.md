@@ -16,3 +16,5 @@ The dependencies of system.cpp was fixed by updating to include the system.h hea
 The implimentation of the uniform class was added.
 
 ## Fixing main.cpp
+
+The dependencies of main.cpp were fixed by adding system.h
