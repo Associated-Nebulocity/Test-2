@@ -16,7 +16,7 @@ class System {
         double boxSize;
         double displacement;
         std::mt19937 gen;
-        std::uniform_real_distribution<double>dist;
+        std::uniform_real_distribution<double> dist;
 
         void step();
         void save(const std::string &filename);
