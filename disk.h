@@ -10,13 +10,9 @@ class Disk {
         double radius;
 
 
-        double distance(Disk & d){
+        double distance(Disk& other);
 
-        };
-
-        void move(double dx, double dy){
-
-        };
+        void move(double dx, double dy);
     
 };
 
